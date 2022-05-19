@@ -9,5 +9,7 @@ its just a map that shows on screen while you at the Crimson Island on Hypixel S
 the best thing is that it show you where you are with a little arrow
 
 Commands:
+
 /ci on/off (to turn on or off)
+
 /ci GUI (to change the place or the size)
