@@ -1,9 +1,11 @@
-# StormyCrime
-Hypixel Skyblock Crimson Island Overlay
+# Hypixel Skyblock Crimsom Island Map Overlay
 
 I sercht a while for a map overlay and found nothing.
+
 Then i decided to make one by myself
+
 its just a map that shows on screen while you at the Crimson Island on Hypixel Skybock 
+
 the best thing is that it show you where you are with a little arrow
 
 Commands:
